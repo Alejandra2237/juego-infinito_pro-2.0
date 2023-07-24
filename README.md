@@ -1,1 +1,1 @@
-# juego-infinito_pro-2.0
+# juego-infinito_pro
